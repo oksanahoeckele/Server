@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get '/' do
-  "Hello World"
+  "<strong>Hello</strong>"
 end
 
 get '/sinatra' do
